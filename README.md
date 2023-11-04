@@ -1,1 +1,3 @@
 # Invoice-Data-Extraction-Bot-using-LLAMA-2-and-Streamlit
+
+This project leverages the power of LLAMA 2, a cutting-edge natural language processing tool, combined with the user-friendly Streamlit framework to create an intelligent bot for invoice data extraction. Seamlessly process and extract valuable information from invoices, enhancing efficiency and accuracy in handling financial data. The integration of LLAMA 2 ensures robust natural language understanding, while the Streamlit app provides an intuitive interface for users to interact with the extraction capabilities. Explore the future of automated invoice handling with this versatile and powerful solution.
